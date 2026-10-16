@@ -4,7 +4,7 @@
 
 I lead robot agents at QuantGroup and founded [ClawFlow](https://clawflow.com.cn/), an enterprise agent studio. Based in Beijing, I work from on-site requirements through working demos, deployment, and measured results.
 
-[Portfolio 中文](https://zedintro.clawflow.com.cn/) · [Portfolio English](https://zedintro.clawflow.com.cn/en/) · [About](https://zedintro.clawflow.com.cn/en/about/) · [LinkedIn](https://www.linkedin.com/in/%E8%BD%BD%E5%BE%B7-%E5%BC%A0-a90440398/) · [Email](mailto:1264355217@qq.com)
+[Portfolio 中文](https://zedintro.clawflow.com.cn/) · [Portfolio English](https://zedintro.clawflow.com.cn/en/) · [About](https://zedintro.clawflow.com.cn/en/about/) · [LinkedIn](https://www.linkedin.com/in/%E8%BD%BD%E5%BE%B7-%E5%BC%A0-a90440398/) · [小红书](https://www.xiaohongshu.com/user/profile/60d85a4e0000000001000ecc) · [Email](mailto:1264355217@qq.com)
 
 ## Selected work
 
