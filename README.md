@@ -2,9 +2,11 @@
 
 **Robot agents, enterprise automation, and research tools.**
 
+**工作与合作联系 / Contact: [zhangzaide7@gmail.com](mailto:zhangzaide7@gmail.com)**
+
 I lead robot agents at QuantGroup and founded [ClawFlow](https://clawflow.com.cn/), an enterprise agent studio. Based in Beijing, I work from on-site requirements through working demos, deployment, and measured results.
 
-[Portfolio 中文](https://zedintro.clawflow.com.cn/) · [Portfolio English](https://zedintro.clawflow.com.cn/en/) · [About](https://zedintro.clawflow.com.cn/en/about/) · [LinkedIn](https://www.linkedin.com/in/%E8%BD%BD%E5%BE%B7-%E5%BC%A0-a90440398/) · [小红书](https://www.xiaohongshu.com/user/profile/60d85a4e0000000001000ecc) · [Email](mailto:1264355217@qq.com)
+[Portfolio 中文](https://zedintro.clawflow.com.cn/) · [Portfolio English](https://zedintro.clawflow.com.cn/en/) · [About](https://zedintro.clawflow.com.cn/en/about/) · [LinkedIn](https://www.linkedin.com/in/%E8%BD%BD%E5%BE%B7-%E5%BC%A0-a90440398/) · [小红书](https://www.xiaohongshu.com/user/profile/60d85a4e0000000001000ecc) · [Email](mailto:zhangzaide7@gmail.com)
 
 ## Selected work
 
@@ -30,4 +32,4 @@ Project pages document my role, methods, results, and limitations. A recorded de
 
 常用 Rust、Python、TypeScript，以及 ROS 2、知识库和工作流工具。项目过程记录在公众号 **Zed之后**。
 
-欢迎交流机器人 Agent、企业自动化和投研工具相关项目：[1264355217@qq.com](mailto:1264355217@qq.com)。
+欢迎交流机器人 Agent、企业自动化和投研工具相关项目：[zhangzaide7@gmail.com](mailto:zhangzaide7@gmail.com)。
